@@ -4,3 +4,9 @@
 
 #Ignore tmp
 *.tmp
+
+# Ignore data
+*/data/*
+
+תרגיל בית 2/unsupervised-learning-notebook.py
+תרגיל בית 2/unsupervised-learning-script.py
