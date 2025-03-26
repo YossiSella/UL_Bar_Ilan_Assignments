@@ -8,6 +8,9 @@
 # Ignore data
 */data/*
 
+# Ignore images
+*.png
+
 תרגיל בית 2/unsupervised-learning-notebook.py
 תרגיל בית 2/unsupervised-learning-script.py
 תרגיל בית 4/Wet 3\[1].ipynb
